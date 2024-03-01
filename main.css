@@ -49,8 +49,7 @@ body {
 }
 
 img {
-    max-width: 1000px;
-    display: table-column;
+    display: flex;
     margin: auto;
     box-sizing: border-box;
     border-radius: 24px;
